@@ -129,16 +129,16 @@ def send_mail(recipients):
 
     body = "Dies ist eine mit Python gesendete Nachricht, im Anhang dieser E-Mail finden Sie die neuesten Posts im " \
            "Subreddit von Advanced Micro Devices (AMD) "
-    msg = MIMEMultipart()
+    msg = MIMEMultipart()  # Erstelle ein MIMEMultipart-Objekt (eine Art multifunktionale Blaupause für unsere E-Mail)
 
     msg["Subject"] = "Es gibt Neues zu entdecken auf Reddit!"  # Betreff der E-Mail
     msg["From"] = config.user  # Absender der E-Mail
     msg["To"] = ", ".join(recipients.split(","))  # Empfänger der E-Mail
 
     msg.attach(MIMEText(body, "plain"))  # Hänge den Body an die E-Mail an.
-    fp = open("grapefruit.jpg", "rb")
-    msg_image = MIMEImage(fp.read())
-    fp.close()
+    fp = open("grapefruit.jpg", "rb")  # Öffne die Bilddatei
+    msg_image = MIMEImage(fp.read())  # Lese die Bilddatei ein
+    fp.close()  # Schließe die Bilddatei
     msg.attach(msg_image)  # Hänge "grapefruit.jpg" an die E-Mail an.
 
     print("Bild wurde erfolgreich angehängt...")
@@ -157,25 +157,27 @@ def send_mail(recipients):
     new.add_header("Content-Disposition", "attachment", filename=msg_new)
 
     msg.attach(hot)  # Hänge "reddit_hot.txt" an die E-Mail an.
-    msg.attach(new)  # Hänge "reddit_hot.txt" an die E-Mail an.
+    msg.attach(new)  # Hänge "reddit_updates.txt" an die E-Mail an.
 
     print("Dateien wurden erfolgreich angehängt...\n")
 
-    server = smtplib.SMTP("smtp.web.de", 587)
-    server.ehlo()
-    server.starttls()
-    server.ehlo()
+    server = smtplib.SMTP("smtp.web.de", 587)  # Greife auf den SMTP-Server von web.de über den TLS Port 587 zu.
+    server.ehlo()  # EHLO startet die SMTP-Sitzung und identifiziert den Client am Server.
+    server.starttls()  # Verschlüsselung mit TLS wird eingeleitet
+    server.ehlo()  # EHLO startet die SMTP-Sitzung und identifiziert den Client am Server.
     server.login(config.user, config.password)
-    server.send_message(msg)
+    server.send_message(msg)  # Sende E-mail
     print("E-Mail wurde erfolgreich gesendet")
     server.quit()
 
 
-send_mail(config.empfaenger)  # Sende E-Mail
+# Rufe Funktion zur Versendung von E-Mails auf
+# Übergebe der Funktion das Argument config.empfaenger
+send_mail(config.empfaenger)
 
 # Führe die Funktion zur Versendung einer E-Mail alle 30 Minuten aus.
 schedule.every(30).minutes.do(send_mail, config.empfaenger)
 
 while 1:
-    schedule.run_pending()  # Führen alle Aufgaben aus, deren Ausführung geplant ist.
+    schedule.run_pending()  # Führe alle Aufgaben aus, deren Ausführung geplant ist.
     time.sleep(1)
