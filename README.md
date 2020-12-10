@@ -1,9 +1,9 @@
 # PythonMailClient
 ## Programmierung Aufgabe
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
--Reddit ist ein Social-News-Aggregator, eine Website, auf der registrierte Benutzer Inhalte einstellen bzw. anbieten können. 
--Ein Inhalt kann entweder aus einem Link, einem Video, einem Bild, einer Umfrage oder einem Textbeitrag bestehen. 
--Andere Benutzer können die Beiträge als positiv oder negativ beurteilen.
+- Reddit ist ein Social-News-Aggregator, eine Website, auf der registrierte Benutzer Inhalte einstellen bzw. anbieten können. 
+- Ein Inhalt kann entweder aus einem Link, einem Video, einem Bild, einer Umfrage oder einem Textbeitrag bestehen. 
+- Andere Benutzer können die Beiträge als positiv oder negativ beurteilen.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 -Das Skript kommuniziert mittels OAuth 2.0 über die Reddit API mit dem Backend von Reddit. 
 -Auf das Subreddit von AMD wird im Skript zugegriffen (Z. 46). 
