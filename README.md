@@ -1,5 +1,5 @@
 # PythonMailClient
-## Programmierung Klausuraufgabe
+## Programmierung: Klausuraufgabe
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 - Reddit ist ein Social-News-Aggregator, eine Website, auf der registrierte Benutzer Inhalte einstellen bzw. anbieten können. 
 - Ein Inhalt kann entweder aus einem Link, einem Video, einem Bild, einer Umfrage oder einem Textbeitrag bestehen. 
