@@ -18,7 +18,7 @@ def index():
 
 
 #  Verwende  den route()-Dekorator, um Flask mitzuteilen, welche URL unsere Funktion auslösen soll.
-#  Wenn die Form submitted wird, führe send_mail() aus.
+#  Wenn das Formular submitted wird, führe send_mail() aus.
 #  Eine GET-Nachricht wird gesendet und der Server gibt Daten zurück.
 #  Die POST-Methode wird verwendet, um HTML-Formulardaten an den Server zu senden.
 @app.route("/trigger_event", methods=["GET", "POST"])
