@@ -1,0 +1,2823 @@
+Titel: We need amd DLSS alternative yesterday. Cyberpunk 2077 is a very taxing game, and amd cards that don't cost $400+ can't even reach 60 fps on average settings in full hd, even with CAS. | Upvotes: 1037
+Titel: Current state of CPU market : 3600X more expensive than 3700X, 3600 nowhere to be found, Intel 6 core CPUs up to and over $100 cheaper... | Upvotes: 805
+Titel: Happy Cyberpunk Day. My Vega 64 celebrated by blowing up. Any chance of repairing this or should I be... looking for a new card at the worst time imaginable? | Upvotes: 6369
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gf8nwew
+
+Potentially have a Limited Edition shroud if anybody wants one if this can’t be fixed.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gf8stse
+
+As a engineering feat, yes, this can be repaired.  As as practical matter, no it really is dead.  The magic smoke was let out.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gf8no1c
+
+Did your V64 literally just blow up on CP2077
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gf8q6y5
+
+She's dead, jim.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gf8ogpq
+
+Woah. Were you heavily oc'd or something?
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gf8onem
+
+You can't fix this. Sorry bro.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gf8qozz
+
+I'm not sure what component was there before, but I'm unable to see the traces underneath to wear you'd solder it back. Best case scenario you simply need top clean that region and you're able to get someone to solder the component back on. Worst case scenario a repair isn't possible.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gf8rrx6
+
+It looks like one of the regulators blew up - you can see the section of the power plane extending down and to the left. What's weird is that there seems to be another scorch mark up and right from the main one. There doesn't seem to have been anything there originally, so I'd guess that something on the other side of the board went out too.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gf8qsul
+
+Maybe the maker of this video can point you in the right direction:  https://www.youtube.com/watch?v=8xR2YjHopSU
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gf8to75
+
+Man CP2077 is really that extra shot of NOS that no one was ready for.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gf94m25
+
+Some more backstory on this card: https://www.google.com/amp/s/amp.reddit.com/r/Amd/comments/9eqhnc/my_vega_64_le_was_having_horrific_throttling/
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gf917i2
+
+I’ve got a msi 7850 I can send if you pay shipping. Prob won’t run cp but better than not having a pc
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gf91gnk
+
+You let the magic smoke out :(
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gf94rta
+
+Did no one warn you about the black ICE?
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gf94u4v
+
+F
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gf95ryu
+
+Hope she had a good run, don't think there's any rehab for that :(
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gf96e4u
+
+F
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gf974kx
+
+But can it run Cyberpunk?
+
+I guess not...
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gf9510p
+
+Try to get a cheap 5700xt until the newer cards are actually in stock. It's definitely not worth it to fix.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gf9550j
+
+F
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gf97tvf
+
+How the hell does this happen? In all my years of computing I've never seen shit catch fire. Like... ever. On Reddit it's a daily occurance.
+
+Shit gets hot. Shit stops working. Shit never goes boom.
+
+Crazy...
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gf8uxfi
+
+F
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gf8wc7h
+
+It’s ogre
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gf93099
+
+Everything is fixable, just depends how much you can pay. I’m sure not the answer you wanted but like everyone else I think it would be more cost effective to get a new card. F
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gf9374m
+
+Yea that shit has shorted, probably multiple layers burned through. It is gone.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gf93wnj
+
+F in chat boys
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gf947k5
+
+That's a bummer. I mean, nice to have an excuse for an upgrade, but not when there's no awesome parts available atm.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gf94a3f
+
+Ouch!
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gf95fop
+
+Seems like an I/O error, you should contact AMD for a replacement... if you didn’t overclock it.
+That chip is a board controller, not a compute chip.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gf96p5o
+
+I'm sorry, your card seems to be gone for good, as a "suggestion" you could search for a Radeon 5000 or NVidia 2000 on eBay, they shouldn't be too difficult and pricy to get
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gf97z4t
+
+[Should I be concerned with my hotspot temp on my Vega 56?](https://i.imgur.com/IToPvOr.jpg)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gf988az
+
+Sucks man :(
+
+I am using a second hand 1070gtx and can play pretty much everything on medium / high at 1080p no problem. I mention this because you could probably get a 1x series nvidia card for cheap while you wait for a proper replacement.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gfa05ra
+
+It looks like it took some traces with it. While nothing is impossible, I'd go with "nah". The amount of time required for someone capable of fixing something like this would surely exceed the cost of a used Vega 64 on ebay.
+
+One tip: Your card shouldn't catch on fire. Send the manufacturer an email about it, see what they can do for you. If not put them on blast cause that shouldn't happen.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gfacu4s
+
+Looking at your PCB I'd say thats a finito.
+
+Quite interesting to see cyberpunk blowing the card up tho. May be worth investigating the cause. I'm not familair with the Vega cards, anyone know what blew up there?
+
+It's still worth selling tho, some might be interested in the actual GPU die.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gfawv8a
+
+Smells like a Gigabyte card 😂
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gfaxysm
+
+I have a reference Vega 64 sitting in it's box doing nothing right now.  I pulled it working from one machine to put it in another machine that had a dead/dying R9 390.  It started to get unstable there, sometimes working fine for days on end, and sometimes crashing with a black screen after 5-30 minutes.  I couldn't be bothered to look further into it as I'm using a 5700xt and the other machine is doing fine with a 5500xt.
+
+It's yours if you live in North America and want to PM me.  Just get me a prepaid USPS shipping label.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gfb9wcr
+
+Oh my god dude. You actually did it. You used your card to it's full potential. What a chad.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gfbda8g
+
+That is a pretty spectacular failure... May I ask did you have it running balls to the walls?
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gfbr177
+
+My 1070 ti did that to me a few years ago!! Sorry mate and it’s a shit time for good deals on cards.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gfbsk96
+
+That sucks! My Vega 64 keeps locking up on me. Sometimes after a couple hours. Sometimes after a couple seconds. Tried everything I can think of. Tired of it. Putting Cyberpunk on my laptop. Not going to look as nice, but hopefully will be more stable.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gfbtq7l
+
+Lightly take some 99% IPA with a q-tip and see if you can see the pads from the exploded component.  I'm unsure from looking but it's maybe a cap?  Remove some gunk and repost with some updated photos and I'll try to be more helpful.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gfbw6ng
+
+Looks like your deck is geeked, keeb. 
+
+Shoulda slotted the cred and shelled out for some protection. Can’t run the shadows without a jimmy hat.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gfbw8j7
+
+Sadly, it looks like you need a new card. It appears to have blown the pads off the board too. So you would need either a schematic, which 99% chance that it doesnt exist in the wild, or an copy of that exact card and someone with the time and patience to figure out where that component connected to and run jumper wires between the blown component and the other components it connects to. 
+
+I know thats not what you wanna hear right now but thats what appears to be going on.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gfbyact
+
+Thats trash... and i think you have a bigger problem in your system sorry to say... i would NOT throw another card into that system.  Thats not normal failure
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gf975vh
+
+lol  mine has been getting black screen issues and I cant even boot up without crashing today :(. At least were struggling together in this gpu shortage lol!
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gf97fnz
+
+"He's dead Jim"
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gf97mmh
+
+Hmmm pick up something cheap and use GeForce Now, until GPUs are back in stock?
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gf97pqd
+
+Moment of silence for this rare Vega 64.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gf98f77
+
+Louis has fixed crater’ed pcbs before, so it might be possible to save https://youtu.be/eL_5YDRWqGE if you know what your doing
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gf98qcs
+
+looks pretty fucked to me
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gf98xfb
+
+Oh damn sorry bout that. Reason why I didnt try cyberpunk on my laptop. Hope you get a new one soon.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gf98zzs
+
+F
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gf99633
+
+What temperature did your card run at? Normally I mean
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gf9977k
+
+Ouch. I’m sorry bro.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gf99dxg
+
+The fire burned through multiple layers of the pcb and probably created some short circuits in the way... Sorry, but this is dead.
+
+But i think [Louis Rossmann](https://www.youtube.com/channel/UCl2mFZoRqjw_ELax4Yisf6w) could try to repair it, but I dont think its worth the money.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gf99iqh
+
+Is this going through layers of substrate? If so, then yeah, it's dead. :-( Time to get a new GPU.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gf99jtd
+
+send to buildzoid
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gf99xor
+
+F man, F
+
+It's a bad time, true, and I can only feel for ya :/
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gf9a4vb
+
+welcome to scalpers heaven
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gf9ag7p
+
+Why is this so common in Vega cards?
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gf9amma
+
+Get a 3070. Mine runs 1440p ultra with ray tracing at between 50-60fps and 62deg. Such a great game so far!
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gf9aohv
+
+F
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gf9axgc
+
+out of curiosity what are the chances of this happening?
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gf9b2ok
+
+I wonder if you can take legal action against CDPR for hardware destruction.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gf9b4a1
+
+Nothing to do.. Is dead.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gf9b4ls
+
+We Bioshock now guys. Back in the days I remember how people’s were claiming that Bioshock made their PCs blow up :D
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gf9bewr
+
+My gtx980 blew up 1 month ago, so I ordered a chip to replace it. Bought a new card, but still hope to fix my old one. But on mine was only the chip and yours its my worse ;(
+Sorry for your loss.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gf9bfzx
+
+Personally i think its time move on to a new card
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gf9bmqi
+
+look for an old card. problem solved
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gf9boq0
+
+sorry bro, hope u find another one quick
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gf9bue1
+
+It looks like it might be able to be fixed. I would take it to a computer repair shop aand see how much they charge.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gf9bx3e
+
+Oh my.......chip is dead......
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gf9c5ad
+
+This is literally the worst time to buy a new gpu how will you be able to survive
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gf9c6tj
+
+Depends, what component was it and how good are your soldering skills?
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gf9cokd
+
+"Can we fix it?" Bob the builder: "No it's fucked"
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gf9cvu7
+
+F
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gf9cz9i
+
+You and me both man. RIP 980 ti.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gf9d5ia
+
+You should look at the cause of this and make sure your next GPU doesn't end up in the same way
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gf9dbjm
+
+F
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gf9dcg1
+
+Yeah, my 6800xt tought the same 🙂
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gf9dcq2
+
+Well if you have nothing to lose, you could attempt a repair
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gf9devo
+
+Looks like my Asus RX580 card where the memory exploded and made it a 6 then 4GB card and then completely died..., had four holes in the PCB, the one of yours looks like it drilled one too tbh
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gf9ds1p
+
+Check if capacitors on your motherboard aren't bloated. In situation like that the PSU can be guilty. Been there, done that, lost 1TB disk and a motherboard.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gf9dvjy
+
+There are just two thing that could happen when it blown up. That one transistor turned off card and nothing other was damaged, or it fried and fucked up gpu chip. Hope for first option. Try asking somebody with same card what is the name of that part and get one from ebay. It costs few cents, most of the price will be shiping.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gf9dz2p
+
+Oh so that’s what happens when you run Ray Tracing with an AMD GPU /s
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gf9eir4
+
+This is rather unfortunate. Yes it could be repaired, however I suggest contacting family and friends to see if you could get some used hardware to get by for the time being. Now is not the best time to be buying graphics cards.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gf9ekdl
+
+rest in peace
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gf9eotd
+
+fucking vega cards
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gf9esrg
+
+Wtf
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gf9f02t
+
+Can't wait to run it on my Nitro+ RX580 8GB With Artic Silver MX-4 thermal paste. I also set my own fan profile too. But that doesn't mean anything until I try it.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gf9f4x7
+
+F
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gf9fjlr
+
+Are you able to RMA it?
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gf9fk07
+
+Not worth it.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gf9fkyb
+
+Fs in Chat guys
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gf9fmtn
+
+Your Vega couldn't take pressure from 2077 release, sorry.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gf9fu57
+
+I repaired an R9 Fury X with similar damage on the PCB.
+
+It was difficult to fix though, and required very detailed soldering and use of hair thin wires to replace blown top level PCB tracks.
+
+The GPU is still working fine.
+
+But likely more economic to bin your PCB and buy a second hand GPU on Ebay.
+
+I beileve there are lots of MSI RTX3090's on there with sellers looking for a quick sale at low prices for some reason...
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gf9g9k4
+
+Don't even try it.
+Seems some copper lines in the PCB has been blown too.
+
+Get a new one, EE advice.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gf9gatk
+
+Starcraft 2 back then caused similar issues with GPUs. 2077 is desperate for optimizations.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gf9gix5
+
+Hmm, it may be repairable but chances are more than just that component may have shorted. And the investigative work can be time consuming.
+
+Might be a good excuse for an upgrade.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gf9gju8
+
+Hi may I know which casing you are using so that I can avoid that casing?
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gf9gnjf
+
+I’m selling an anniversary edition 5700xt for £450 if you’d like first refusal. Fully boxed, still under warranty.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gf9grqt
+
+F
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gf9h5k1
+
+Multilevel circuit boards? yeah she's done my man.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gf9haif
+
+F
+
+Really hope you get a suitable replacement, this game runs very poorly on recommended specs. Not shitting on CDPR, I do however think they gave us what they had, not what they wanted to give us in the Performance area. I trust they will release many more updates to fix the performance.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gf9himp
+
+What happened, a power surge?
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gf9hjpe
+
+Seems like the copper lines insides your pcb are damaged. I solder alot myself and I wouldn’t even bother to fix that. Sorry man but that pcb is dead
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gf9hm0n
+
+"vega 64"
+
+It was a 56 you flashed to a 64 bios wasn't it?
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gf9ho7u
+
+well luckily all the new graphics card releases have been super smooth and availabiltiy is unprecedented, so it's just a matter of getting a new one. no biggie.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gf9i0eq
+
+Looking at those burn marks I'd recommend buying a 2070 or at least 5700XT from the merchant with longest return available
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gf9i1sx
+
+Ouch.  Rx580 undeevolt and OC runs it on low settings for anyone who wants to try.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gf9i4zn
+
+And my friends this is why you should invest in CPUs with iGPU
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gf9ibi6
+
+Why would this happen? I have a vega64 that vinny gave me and i bought cyberpunk
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gf9ievo
+
+F
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gf9iiit
+
+Its only a bad time if you want the most recent card. If youre happy with a 1 year old model you will have absolutely no problem to get a card
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gf9iwod
+
+My worst nightmare in this period.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gf9jhk5
+
+It burnt the top layer off. We also see multiple burn spots, this indicates that there also was a short-circuit between PCB-layers. 
+You can repair what you want but it's no use: the PCB is done.
+
+100% dead and done.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gf9jqox
+
+Let me know if I can help you with getting a new GPU in the near future.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gf9ju79
+
+Being that all modern cards are what are referred to as 'multilayer', that component frying likely burned up any traces below it on the second layer along with everything around it.  Just get a new card.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gf9juli
+
+Ask on r/AskElectronics, they are good at this kind of stuff
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gf9k399
+
+I guess you have a nice and shiny doorstopper now
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gf9kc9o
+
+Just buy a new card bro...
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gf9kzzc
+
+You have to start the search
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gf9lp1n
+
+F
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gf9lq73
+
+I can sell my 1070 once I get my 3080 in April 2033
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gf9lrmu
+
+Samurai, you were supposed to burn the city not your graphics card.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gf9ls77
+
+It's probably a full day of work for a relatively skilled technician with an intimate knowledge of the PCB or at the very least the technical documents.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gf9lsta
+
+Rip
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gf9ltjl
+
+See if you have good local repair shop for microelectronics. It can potentially be fixed if damage is not shorting PCB layers.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gf9mkr5
+
+if you look really really close at it...
+
+... it kinda looks like a cyberpunk city
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gf9n7jc
+
+F
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gf9o6du
+
+dead as disco bruh
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gf9oqml
+
+This has worried me.
+
+I'm on a Sapphire Vega 56, and I'll be playing Cyberpunk later on.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gf9oqri
+
+Big ouf, god damn...my condolences..
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gf9p40e
+
+RIP friendo, you'll be missed
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gf9pdg5
+
+As a vega 56 owner im really scared to buy the game now :s.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gf9pl76
+
+F
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gf9ptiz
+
+Get on Facebook marketplace and pick yourself up a used GPU until graphics cards are back in stock
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gf9qce6
+
+F.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gf9qcxa
+
+What Power Supply Unit have you been using?
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gf9qe0n
+
+AliExpress has some gpus for good price. Two generation old, but still. Anything newer is also stupidly expensive as in every other place.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gf9qj14
+
+Put it to rest my friend. Even if you could find surface component replacements, there's too much damage to the PCB.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gf9qnlm
+
+This card is dead man. You are looking for a new one.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gf9qtdi
+
+There are guys who are able to fix it ([https://www.youtube.com/watch?v=EjkR6lu7sZ4](https://www.youtube.com/watch?v=EjkR6lu7sZ4)), but I don't know how far are they from you.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gf9r3g3
+
+F
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gf9r6zy
+
+My V64 with a Morpheus cooler just bit the distance recently as well. Almost looks like the same spot... happened a few days after installing 20.11 drivers.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gf9rkhl
+
+F
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gf9rm9s
+
+Fixing depends on having the correct parts and how good your soldering skills are.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gf9rucy
+
+If you’re in the US, I’ve got a VegaFE sitting in a drawer with an ekwb water block on it that I’m too lazy to figure out how to reinstall the original cooler (that I also have) that I’ll sell you for $200 if you’re interested.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gf9s3xm
+
+Rip
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gf9s4b2
+
+If your in  the us I have an extra 3070 available
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gf9s96a
+
+I'd happily buy it from you if it's truly dead, but have a go at trying to repair it first if you can find someone who knows what components and / or capacitors have blown up and where to sauce replacements.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gf9sftn
+
+as a vega owner currently downloading cyberpunk, this made me anxious. Big F man, this sucks
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gf9sxik
+
+Does undervolting prevent things like this?
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gf9trkr
+
+Yeah its fucked, man.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gf9txah
+
+Check your PSU ASAP.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gf9uokc
+
+Damn, did you violate some ancient burial ground recently? It's bad luck enough to have a GPU fry itself on a new game which automatically sucks, but during a time when GPUs are stupid hard to come by and selling at premium prices.
+
+Oof, F.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gf9ur12
+
+Oh that Card has gone Bye Bye. RIP to the all mighty Vega. Come join the hunt for the elusive "creature" called the graphics card
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gf9v89i
+
+Just look for another one, you don't have the skill and experience required for that
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gf9vl3b
+
+F
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gf9vp9b
+
+Toast.  Give it a fond look and recycle it.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gf9vuce
+
+Did it break play cyberpunk? Not surprised. My card has like 15 degrees higher playing this than any other game. I made a profile where the fan is at 100% all the time and my card still gets around 75 degrees playing this.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gf9vvcs
+
+If supply is anything like where I live your option is basically the 5700 XT, everything else is sold out or scalper prices.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gf9x643
+
+Definitely a new card, a computer and electrical engineering expert might be able too but not the average person
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gf9xo6o
+
+Lol. No. That's 100% dead.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gf9xsus
+
+where u able to get a glance of cyberpunk on vega 64
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gf9xwjx
+
+this is very very sad :(
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gf9xxx5
+
+You'd have to hand splice back into the traces because theyre fried looks very dead to me sadly
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gf9y6ra
+
+But... what happened for your card to  blow up like that ???
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gf9ya45
+
+What an awful time to give up the ghost. It’s impossible to get a new GPU right now at sane prices. Sorry, friend.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gf9yql4
+
+I'm sure that's just the "fine wine" kicking in.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gf9z7xa
+
+It must of been really hyped for the game(sorry for the joke)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gf9zxmc
+
+F
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gfa0e0d
+
+I have gtx1060,the chips was burnt as well
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gfa0w7r
+
+RIP
+
+[https://www.reddit.com/r/cyberpunkgame/comments/jgoyix/try\_to\_run\_cyberpunk\_2077\_on\_my\_8\_years\_old\_pc\_be/](https://www.reddit.com/r/cyberpunkgame/comments/jgoyix/try_to_run_cyberpunk_2077_on_my_8_years_old_pc_be/)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gfa15wz
+
+Hah
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gfa1osi
+
+Looks like typical capacitor popped.  Not enough energy to destroy traces so it's probably just remnants of destroyed cap.  Take it to someone experienced to unsolder remnants of destroyed cap, clean area, find part # from working card then solder on replacement part.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gfa2a2e
+
+Man’s PCB is black from the explosion and he still wants to repair his old vega. You guys are dedicated I love it
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gfa2q6t
+
+I really do hope this doesnt happen to my Vega56 that is currently in my Intel system if I try to start Cyberpunk 2077... OwO
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gfa2xz9
+
+That really blows, unfortunately finding a GPU that isn't going for a lot more than MSRP is hard to find.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gfa3ikq
+
+I'm going with dead, sorry. That's a lot of copper that's fried. I don't envy you trying to replace a GPU right now.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gfa3pdp
+
+I hope you don't think that not playing 2077 is the "worst time imaginable".  Have patience the game isn't going anywhere.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gfa3xp8
+
+It couldn’t handle the neutron style
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gfa4hns
+
+unlucky dude not all is lot. mine old 390 mets it's untimely.demise at the hands of metro exodus. 
+
+might be a worth a new card. you can still pick up em just have to pounc like a leopard.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gfa52hq
+
+saddest anime moments :c
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gfa5swj
+
+Looks like you had a blast
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gfa5w19
+
+mexicanguylaughing.gif
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gfa61vj
+
+FFFFFFFFFFFFFFFFFFFFF
+F
+F
+F
+F
+FFFFFFFFFFFFF
+F
+F
+F
+F
+F
+F
+F
+F
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gfa6gt8
+
+Shut her down, Clancy, she's pumpin' mud.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gfa6rcb
+
+Now I want to see how my 960 or my dads 590 would run this game lol
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gfa7nsr
+
+send it to buildzoid
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gfa7nwl
+
+I mean, anything is possible, but no it’s not gonna be a simple task to fix this. Id recommend refreshing the Newegg page for 48 hours a day in search of a 3080.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gfa7tty
+
+Vega bad (source: I use a Vega 64 LQ)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gfa83ql
+
+Congrats you get to upgrade!
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gfa8qcc
+
+F
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gfa8vsn
+
+"Blow the fuck up, samurai.. We have a GPU to burn."
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gfa8z1e
+
+You can use it as a tray, decorate your house as an art form, use as a sand shovel, coaster for drinks or hot coffee/tea.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gfa8zxy
+
+Yikes that sucks to see and hear. GL on replacing it
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gfa9wnz
+
+There could be a quick fix, but you really have to be skilled in soldering, and willing to find high res photos of the exact same card in exact same rev. number.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gfaa9d7
+
+My 2080 died aswell so I got to wait a week or two to get my hands on a 3080.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gfabhmw
+
+To put it midly, yeah sure 1 part blew up but even if you fix that, you don't even know if that's what caused it to blow up.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gfac9po
+
+F
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gfad4fe
+
+Dead as dead can be
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gfadn6l
+
+F
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gfads04
+
+jesus, what were you doing to it?  OC?
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gfadw1h
+
+An update: https://www.reddit.com/r/Amd/comments/kah9wr/an_update_on_the_happy_cyberpunk_day_very_very/
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gfafsnj
+
+Just get a 20 series nvidia or an AMD 5000 series. Don't even bother looking for the latest generations from both brands.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gfafuvo
+
+that I'd say is done, pcb's damaged.
+
+Like if you're the kind of person whose got a soldering iron lying around and has fun with that sort of thing, yea sure give it a crack, 99% shot it'll fail but what you gonna do make it more dead. like my personal line for nope would be what was there before and is there anything surface mounted on the other side where that burn is. if it was just a power regulation capacitor I'd give it a shot for lols.
+
+I guess it is a 500$ card new most repair guys'll give a free estimate, but I don't expect they'd be able to or it'd be a price you want. Do that before trying to do anything yourself tho if you are going to give that a go. They might even throw you 10$ to buy it as a parts board.
+
+Keep in mind we're a bunch of amd fanboys there's probably 1-2 micro soldering people on this board that maybe will probably not see this post and their opinion will probably get buried if they do.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gfag33u
+
+I'm pretty sure this is not worth attempting to repair, but the bigger question is what caused this?
+
+You should test your power supply to ensure that it's not faulty before dropping in a new card, because no matter how much it sucks that this card blow up it would suck twice as much if you finally get a new one and that blew up too.
+
+I'd also recommend a "uninterruptible power supply" or at the very least a good surge protector if you don't already have one.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gfag91y
+
+these are now multi layered boards. There is no repairing unless u get a lithograph of the layering and can rewire the layers manually.  There is a crack in the board. This circuitry has extensive over heat damage. Beyond repair.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gfaggne
+
+F
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gfahiz1
+
+Nope, that shit is donezo. I say this as someone who regularly take on too-far-gone board repairs, I wouldn't even have tried to repair that. Where the board is burnt is now conductive... you’re gonna have to scrape off the top layer of that area, without jacking up the traces on the lower layers, and figure it where all the top layer traces were supposed to go and recreate that. Not happening!
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gfaicdk
+
+HAPPY NEW VIDEO CARD JUSTIFICATION DAY
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gfaj27f
+
+I think for the price of a repair, you could buy a 3090 of ebay.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gfaji7s
+
+Make sure your power supply is ok.  My old rosewill (first build mistakes) fried my rx 470.  Don't want you to buy a new card and have that fried too
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gfajrff
+
+and yet my 7 year old 7990 is still running like a beast while fully overclock and sounding like jet engine on full load.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gfakqz2
+
+Cant be fixed. The damage is too great. The pcb is burned down the tracers too and you have no contact pads on the board.... Even skilled guy cant fix this. The only way is maybe getting a broken card and salvage parts from this card to fix the broken one (
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gfakrpo
+
+Go buy a GeForce now subscription, all the new graphics cards are out of stock :(
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gfal06h
+
+You can still find 5600xt's without issue. Grab one of those until the market for new cards equalizes.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gfal8y4
+
+My friend had me build him a Pc like a a year and a half ago 2 years. He bought all the parts and came to my house with them. He bought everything except a graphics card. I was like Um dude you need one. So I ended up letting him borrow one of my 1070s from an old mining rig. I wasn’t going to sell it because I had pushed them all hard and fried one. 
+
+I ended up getting the one I fried rma’d a few weeks after building his and using it in my own rig for a VM. Card for my friend worked great. He always said he was gonna get a graphics card and give me mine back but never did. A week after RTX 3000 series launched we were playing a game and poof there went the 1070. It was 2 months passed the RMA window. 
+
+
+Poor guy has been trying to get a graphics card so hard. I’ve been helping and have alerts setup on my phone. The closest I got was getting one in my cart and getting to the checkout and Newegg forgot my details even though I just bought something. Anywho while putting in my address it sold out.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gfal9ag
+
+Yes, this is fixable!
+
+However, you need a soldering station like a YAXUN 902+ (mine) or similar (one that has regulable hot air and soldering iron). They aren't that pricy and it will serve you more than once, I guarantee you. Repairing such stuff becomes an interesting thing to do once you have the tools :)
+
+You have two options: Toss it in the bin or repair it. If you manage to repair it, the tools have already paid themselves. If you couldn't, you still have the tools to do further repairs and also added knowledge!
+
+Back to the repair: Put solder flux on the burned area, heat it up to +- 300C with the hot air gun, let it heat for about 20-30 seconds. After that you should be able to remove the burned chip with tweezers easily like butter. If it still sticks, don't try to scrape - wait - and apply heat for another 20-30s and try again. If you try to scrape it off, chances are, the pads below become loose too and you're screwed.
+
+After that, clean the area by letting it cool and then cleaning it with alcohol (anything above 95% should be good enough). 
+
+Get a new chip from AliExpress or whatever (look datasheets online to see what was originally there). Depending on where you live you might even have an electronic components store near you and can find it there! Maybe you can even find all of this there and do it *right now*...
+
+Heat the area back up to +-200C for about one minute to help you in the next step.
+
+Now that your "clean" area is about 200C, you can follow using the soldering iron and apply a bit of flux and new solder to the pads (if they're still there, but I think they are). The 200C is only an auxiliary step so the solder flows more easily when combined with the soldering iron, it is optional, to a degree.
+
+When it arrives, heat the area back up to +- 200C, put flux where the chip is supposed to be, pick the new chip by tweezers and carefully place it over the pads with the flux on them. There is only one way it goes on them, you can't mess that up. Then heat the chip up to 300-350C until you see the solder under it liquify. When it liquifies, put heat for another 10 seconds or so to be sure it has sticked. If you aren't sure, wiggle the chip with the tweezers while applying heat, but be careful to not yeet it to another existence (it's incredibly easy to slip lol)
+
+Turn everything off and wait until it has all cooled down. After that, clean the area with alcohol again and let it dissipate.
+
+Done. Plug it into your pc, turn it on and pray for it to not explode again hehe
+
+Note: I know this is pretty long and probably all new to you, but don't be afraid. I listed every tiny step for you to imagine it better.
+If you manage to repair it, you will feel an uplift that is insane.
+
+Also, you might do it with other things, fix them and get some money even :)
+
+Don't be discouraged! **Try it** ;)
+
+*List of things used: Solder, Soldering Station, Solder Flux, Tweezers, Chip, Alcohol...* and that's basically it. When picking solder or flux, don't pick the cheapest shit, it's already not expensive haha 
+
+Also, if you were to live where I do, I could attempt to repair it for you without any cost, but that's probably out of realm, since  I'm 99.793% sure we live countries apart.
+
+If you want to repair it yourself and learn something new, just PM me and I'll help you anytime!
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gfam5oi
+
+F
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gfame49
+
+It's totally fucking fucked mate, big time
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gfanlkv
+
+Right now on eBay you can pick up a used 1070ti for like $250, similar performance and age to this card. Probably not worth it right now though as it is likely to drop in price after a couple of months.  
+edit: typo
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gfannvn
+
+Well you can try. If you figure out what that component was, get it and try to solder it to the pcb.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gfanrqn
+
+i´m sorry but i can´t stop laughing at the title
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gfaotlj
+
+I have a titan rtx that I will part with for 1600 and you pay shipping. Also have a nvlink also for it
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gfap772
+
+When did you buy it? It'll have a 3 year warranty and they launched August 14th 2017
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gfaqg86
+
+If it was a situation that called for component level repair I’d say go for repair. But the PCB is actually damaged and you’ll have to get into replacing traces, pads, etc. This would be scrap. There’s also no telling what else is blown from the electrical over-stress it took to do that damage.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gfaqnrz
+
+F
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gfaqp5x
+
+Maybe it's under warranty?
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gfaqst9
+
+Oof, sorry to see this. Cold comfort, but as a holdover, it seems you can still get a 5600 XT  [at retail](https://www.dell.com/en-us/work/shop/radeon-rx5600-xt-mech-oc-6gb-gddr6/apd/ab079131/graphic-video-cards?gacd=9646510-1025-5761040-266794296-0&dgc=st&ds_rl=1282786&gclid=CjwKCAiAq8f-BRBtEiwAGr3DgWo48TYyjh_wjP3J4ko-n29pGQAAGVugCq6fGuhtIuswmTEj4xpUPBoC0aQQAvD_BwE&gclsrc=aw.ds) for a [fairly reasonable](https://www.newegg.com/asus-radeon-rx-5600-xt-rog-strix-rx5600xt-t6g-gaming/p/N82E16814126432?item=N82E16814126432&source=region&nm_mc=knc-googleadwords-pc&cm_mmc=knc-googleadwords-pc-_-pla-_-video+cards+-+amd%2fati-_-N82E16814126432&gclid=CjwKCAiAq8f-BRBtEiwAGr3Dgfw_quW5uXfRrndH83BWY_a1XNy6wqOgXtPbt2J6wtHK8YfCWjglvhoC_moQAvD_BwE&gclsrc=aw.ds) asking price. Hope things work out okay!
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gfasfh7
+
+It's dead, Jim.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gfasgj1
+
+Long answer: yes it is somewhat repairable. Short answer: Your Fucked
+
+If you REALLY need a card to play cyberpunk RIGHT NOW just grab a 980 or 1060 6gb used for $100-150 and sell it when your ready to actually buy a new card, youll be playing at 1080p medium-high but youll still be able to enjoy it with 55ish fps
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gfat6tn
+
+I think that board said "fuck this" and went to heaven.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gfatryp
+
+Look for a new card!! All the best if you get one though! Pretty much every freaking card that you can imagine is out of stock!
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gfatyeh
+
+Nah man say your goodbyes and toss it. It's dead
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gfauqj7
+
+Blowing up seems to be an accurate description
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: ka76s6
+Comment ID: gfaw2ls
+
+F
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf8nwew
+Comment ID: gf8rfog
+
+I'm interested... Got a vega56 airboost that could use a better cooling 😄
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf8nwew
+Comment ID: gf8s8xd
+
+I'm inclined to think it is fixable but going to cost more than the value of a replacement card.
+
+Right off the bat you'll need some sonic cleaning to scrub the board and see what else got scorched. Then you need to see if amd is willing to offer up some sort circuit diagram to find out which mofet burnt and needs replacing.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf8nwew
+Comment ID: gf97bs4
+
+If you're selling the shroud can I have the pcb?  I wanna try fixing it
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf8nwew
+Comment ID: gf9buej
+
+I could try fixing it.  Have a spare V56 that's ready for parts transplant... got a hot air gun, soldering iron... pm me.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf8nwew
+Comment ID: gf91z59
+
+Liquid shroud and all that or just air cooled? Sorry for your loss.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf8nwew
+Comment ID: gf95xwl
+
+Allow me to introduce myself
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf8nwew
+Comment ID: gf927fk
+
+me too, I could really use some flair too lmao
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf8nwew
+Comment ID: gf9g8yv
+
+Region?
+
+
+I'd be happy to buy the dead card off you as a shelf piece as I love the silver design but postage to Australia is always horrible.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf8nwew
+Comment ID: gf9k6ss
+
+My vega 56 would be very happy with new shroud. I will cover shopping costs
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf8nwew
+Comment ID: gfarcf1
+
+Just put it in rice.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf8stse
+Comment ID: gf9pkeb
+
+This is beyond repair, it a multilayer board that has been carbonised. The pcb will be conductive where it has turned to carbon cutting it out will destroy multiple layers of traces. Its a high speed board so running trace wires would not be recommended and would be a huge amount of work.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf8stse
+Comment ID: gf99q0o
+
+I 8magine 8f you could find out what parts failed replacing them wouldn't be terribly hard or even expensive. 
+
+The real question is what did those parts do, something with a lot of power obviously, and did the failure cause additional damage in more delicate places? If the GRAM or gpu took damage from the power surge, replacing them becomes academic.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf8stse
+Comment ID: gf9kvqu
+
+Just refill the smoke!
+
+[Magic Blue Smoke Refilling Kit | SparkFun](https://www.sparkfun.com/products/retired/10622)
+
+/s (April fools day product)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf8stse
+Comment ID: gf9e4a7
+
+One of the computer stores in the Netherlands had 47 rtx 3070's in stock. Not sure how they managed that. But yeah. They did
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf8stse
+Comment ID: gf9uaq6
+
+Ah, a fellow man of science with knowledge of the ”magic blue smoke”
+
+Seems contradictory but it's legit
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf8stse
+Comment ID: gfbb3zd
+
+The crater is behind one of the minor voltage regulators. As long as long as all the shorting is like 12V to switch node to GND or Output to switch node to GND you should be able to isolate the short and just connect a new voltage regulator to the power plane.
+
+&#x200B;
+
+EDIT: Though I should point out that I've never successfully fixed any VEGA cards. For some reason they really don't want to start after having failed.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf8stse
+Comment ID: gf9uk14
+
+Even as an engineering feat, it's dead dead.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf8stse
+Comment ID: gfaa9la
+
+First of all, as you mentioned everything is fixable as a  e gineering feer. In practice it can be too. It really depends on 3 things. If the PCB traces are still there, the component availability and his soldering skills...
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf8stse
+Comment ID: gfachtr
+
+White smoke means a new ~~pope~~ graphics card
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf8stse
+Comment ID: gfaepyu
+
+I bet it made the cutest little poofing sound when it decided to give birth to that miniature mushroom cloud
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf8stse
+Comment ID: gfafes9
+
+I'm surprised at how enduring the magic smoke joke is.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf8stse
+Comment ID: gfao8r4
+
+There are multiple layers in the PCB and level of carbonisation suggests that it has burnt all the way through the board over a large area with multiple copper traces being entirely destroyed.
+
+It could be repaired if you took all the components off and applied them to a brand new PCB while replacing the destroyed components... But of course that is almost impossible. 
+
+TLDR: Captain orange is more likely to become president again than this board being repaired.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf8stse
+Comment ID: gfau4cs
+
+You never want to let the factory installed smoke out.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf8no1c
+Comment ID: gf96vx1
+
+Probably, it makes my 5700XT run hotter than any other game I own.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf8no1c
+Comment ID: gfa6w1u
+
+CDPR really went hard on the nvidia partnership. Their game even blows up the competition’s cards.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf8no1c
+Comment ID: gfacb03
+
+It would scan that it's killing cards with this technical mess.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf8q6y5
+Comment ID: gf9apqo
+
+I understood that reference.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf8q6y5
+Comment ID: gf9xkd6
+
+>OK Cap
+
+I'm a doctor, not a damned green skinned, pointy eared electrical engineer!
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf8q6y5
+Comment ID: gf9unoi
+
+Dammit jim I'm a gamer not an engineer.  That thing is dead.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf8ogpq
+Comment ID: gf8oq5m
+
+Exact opposite. Very strange, still trying to figure out what happened.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf8onem
+Comment ID: gf940pg
+
+of course it is fixable with soldering a new chip.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf8qozz
+Comment ID: gf8rogg
+
+Looks like multiple PCB layers were torched
+
+Probably a short circuit
+
+tl/dr: 
+
+F
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf8qozz
+Comment ID: gfbn3yl
+
+Some [ceramic caps](https://media.discordapp.net/attachments/360743716975280128/786699895284432926/unknown.png). I guess they shorted, drew quite a bit of current and burned the board.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf8rrx6
+Comment ID: gf8zbwt
+
+I'm seeing one major scorch mark and two minor scorch marks. Could that be flux that leaked into the board once it fried?
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf8qsul
+Comment ID: gf8smrm
+
+This was awesome. Looks like it was two capacitors driving the HBM (which I had OC’d and undervolted).
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf8to75
+Comment ID: gf98sj3
+
+Errybody rides gangsta till shit start breaking during the 24 Hours of ~~LeMans~~ Cyberpunk 2077
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf8to75
+Comment ID: gfacs8d
+
+It's literally an epilepsy trigger, killing GPUs would just be completely on message.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf94m25
+Comment ID: gf98ork
+
+I wonder if this could had been prevented by running the GPU at colder temp.
+
+Never had a GPU dying on me but my for my last 2 (GTX970 and GTX1080) I've installed a Kraken G10 AIO cooler just to keep them as silent as the case. 
+My 1080 is quite old and has been running always at 99% load (with GPU temp between 60C and 70C because of the AIO). 
+
+Anyway I'm saying this because I recommend you to try to get something like this solution in the future.
+
+Personally thanks to the low stock I'll try to avoid 220W+ GPUs and I'm waiting for an RX 6700~ (hopefully compatible with a Kraken G10/G12 so I don't have to spend money on a custom loop).
+It's much more difficult and expensive to keep cold a 220W-300W GPU
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf917i2
+Comment ID: gf94azs
+
+Thanks for the offer but I’ll be alright.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf94rta
+Comment ID: gf97psn
+
+I now want to play Shadowrun on Genesis.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf94u4v
+Comment ID: gfa749p
+
+F
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf96e4u
+Comment ID: gf9w3te
+
+F
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf974kx
+Comment ID: gfa1rd7
+
+But Can it run Minecraft?
+Not anymore...
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf9510p
+Comment ID: gfa79rz
+
+TIL $400 is cheap.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf97tvf
+Comment ID: gfaag35
+
+I was initially thinking that it's just a defective unit where maybe the safeguards on the VRMs failed and hence the damage spread throughout the PCB. Now I'm wondering how quality his PSU was and how hard he had driven his vega 64 for what amount of time.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf93099
+Comment ID: gf9j5tj
+
+If that burn goes through multiple layers of PCB it is not fixable.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf96p5o
+Comment ID: gfa7rkw
+
+if only
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf97z4t
+Comment ID: gf9c7u6
+
+LOL. that reading should be way off (I HOPE), or you will be the next "BOOM".
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gfawv8a
+Comment ID: gfaxv84
+
+Sapphire Limited Edition... And it started its life giving me problems.
+
+I have no idea how it got past quality control: https://www.google.com/amp/s/amp.reddit.com/r/Amd/comments/9eqhnc/my_vega_64_le_was_having_horrific_throttling/
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gfaxysm
+Comment ID: gfay6yb
+
+Interested! I'll message you a little later.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gfbw8j7
+Comment ID: gfbx8p1
+
+Also based on what I can see, I believe the missing component is a diode. Which could possibly be another component down the line shorting, which would pull more current than that diode is rated for. Meaning something else could be the cause for the issue you are seeing.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf9hm0n
+Comment ID: gf9yam5
+
+It was a limited edition Vega 64 with the nice machined aluminum cover.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf9qcxa
+Comment ID: gf9xtbn
+
+Corsair 850 watt. The cheaper worse one. I may try and find a replacement for that too.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf9r6zy
+Comment ID: gf9xndq
+
+If this was a driver issue... Man.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf9s4b2
+Comment ID: gf9xh8r
+
+I don’t know how to direct message but I’m interested.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gfa3pdp
+Comment ID: gfaccnd
+
+I mean more that it's almost impossible to find a replacement.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gfa4hns
+Comment ID: gfa4j07
+
+°*lost
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf8rfog
+Comment ID: gf98eea
+
+The cooling won't be any better tho
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf8s8xd
+Comment ID: gf99kqr
+
+Buildzoid could probally fix it
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf91z59
+Comment ID: gf92k4t
+
+Just the air cooled but I’m still sad.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf9pkeb
+Comment ID: gfafwpm
+
+Hence him saying "as an engineering feat". haha
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf9pkeb
+Comment ID: gfajak4
+
+>carbonised
+
+a nice way of saying burned to a crisp
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf9pkeb
+Comment ID: gfaqrse
+
+Nothing is beyond repair. It would just cost way more in labour than a new video card.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf99q0o
+Comment ID: gf99zao
+
+yeah well looks like the copper traces got yeeted so its gonna be a hard repair
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf99q0o
+Comment ID: gf9ckt7
+
+The real question is which other faulty part might have caused the now destroyed but potentially previously perfectly working part to fail. 
+
+You can’t just replace a failed part without understanding what caused the failure. 
+
+Louis Rossman vibes.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf99q0o
+Comment ID: gf9fosq
+
+Most of this card are multilayer... And the pew it has... Eats a couple of them, that's a short most likely unfixable, even though maybe you could repair the traces on the too layer, but I don't think you could repair the ones under it.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf99q0o
+Comment ID: gf9kjb0
+
+in your case it's the i and the 8 are sticky.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf99q0o
+Comment ID: gf9n3ng
+
+Finally someone else with fat thumbs! Cheerio mate!
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf99q0o
+Comment ID: gf9yeno
+
+I'm gonna say that even if you do replace what's blown out, you probably still haven't fixed the problem. Something caused that to blow out in the first place.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf9kvqu
+Comment ID: gf9uu9z
+
+This is the key:
+
+" inverse tetra-grammatron phase inductance focusing screen (TGPIFS for short)"
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf9e4a7
+Comment ID: gf9gxz6
+
+They also had 5950x's and 5800x's in stock
+
+Edit: they still have
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf9e4a7
+Comment ID: gf9la5o
+
+And do they have 3080's by any chance?
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf9e4a7
+Comment ID: gf9qq6q
+
+to normal prices? Just onlienshop or stores?
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf9e4a7
+Comment ID: gfa08b9
+
+WHICH ONE
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf96vx1
+Comment ID: gf97bec
+
+Interested to know, what kind of frames you getting and on what settings?
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf96vx1
+Comment ID: gf9i5sf
+
+The 5700XT (especially the AIB cards) use far too much voltage/current at stock, with little gain in performance. I've found you can drop the power target by 50W, and only lose 3% of performance, massively dropping the heat output to the point you can set a fan curve that is barely audible above the case fans (and this is with one of the shittier AIB cards).
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf96vx1
+Comment ID: gf9ice6
+
+Any game that can’t be run with a $200 laptop makes my 5700xt run at 105° junction and 100°
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf96vx1
+Comment ID: gf9d01q
+
+Try a better fan curve in wattman. It's like mid 70s for me.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf96vx1
+Comment ID: gf9lgl5
+
+Same here, shit was blowing hot air at my face last night, i let HWinfo running and the hotspot reached 109 celsius at one point, so yeah, and i was using Vsync capped at 60fps at 1080p haha. But in Cyberpunk's defense, yesterday was hot as fuck and i didn't bother adjusting my fan curve, i will do that today.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf96vx1
+Comment ID: gf9qnw7
+
+Am I stupid for trying to run it later today on a rx570?
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf96vx1
+Comment ID: gf9rc9x
+
+My RTX 3080 only get 50-60 frames at times. This game is demanding af
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf96vx1
+Comment ID: gf9rfnj
+
+That's very interesting to me.     
+My 1080ti does not get anywhere near its power limit at all. I am on a custom curve that ends at 1961MHz, but the card only draws 230W of a max of 300W and stays pinned there. Reeks of some shader bottlenecking the rest of the card into oblivion.
+
+Performance is poor because I'm used to games running at 90+fps and not 30, so I'm on low-medium 1440p. Yikes.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf96vx1
+Comment ID: gf9rrqc
+
+There is quite a difference between a card running hot and literally blowing up. Especially that high temps aren't as damaging to components as people think they are (as long as you're not oscillating around the rated critical temp, you should be fine).
+
+If a card died during intensive workload it can't be workload's fault, but more likely the card was faulty, even if it didn't show it for a long time. I'm no expert but this looks like a cap that went bust (quite spectacularly), it shouldn't do that, it was probably faulty form the very beginning, but still "functional enough" to do its job for the time OP owned it.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf96vx1
+Comment ID: gfabd3v
+
+Is thermal throttling not a thing any more?
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf96vx1
+Comment ID: gfanalx
+
+I have same card with i5 10600k and the gpu temp hit 93°... Granted I was running on ultra on 1440p so I should prob turn that down and maybe undervolt
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf96vx1
+Comment ID: gfanhsz
+
+110 junction always.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf96vx1
+Comment ID: gfaslnq
+
+Same here. My 5700XT reaches an edge temp of 100 degrees centigrade in Cyberpunk. This is the hottest I measured it in any game so far. Performance is also terrible.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf96vx1
+Comment ID: gfavb1i
+
+Same but it only runs at 75 while I stream it at 1080p 60fps on ultra. 5700 xt red devil is a beast. Don't care what people say.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf9apqo
+Comment ID: gf9awb1
+
+OK Cap
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf8oq5m
+Comment ID: gf8xt5q
+
+I've got a 6800 coming and I'm going to sell my not LE Vega 64 Nitro + .  I'm more worried about your power supply killing your next card though...
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf8oq5m
+Comment ID: gf8p1n1
+
+Yeah absolutely.. hate to see it, especially when buying a card is such a crapshoot.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf8oq5m
+Comment ID: gf9s8ft
+
+It could have been faulty right from the very beginning, you know. Just "not faulty enough" for you or the vendor's quality assurance department to notice.
+
+You were just unlucky that the faulty cap or whatever that was killed your card long after the warranty period expired.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf8oq5m
+Comment ID: gf9ae38
+
+Any storm going around your home?
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf8oq5m
+Comment ID: gfa9njl
+
+>Very strange
+
+As electrical engineer, not strange. Messing with Voltage and mixing it with low grade tolerance SMD, this can happen. Especially if charges of one SMD tpye can vary in tolerance by manufacturing day very much.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf8oq5m
+Comment ID: gf9z023
+
+The card saw CP2077 and committed sudoku.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf940pg
+Comment ID: gf969bi
+
+The traces in pcb might have been damaged in the burn
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf940pg
+Comment ID: gf96c67
+
+You just have to hope that there isn't an underlying issue which caused the chip to blow in the first place.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf8rogg
+Comment ID: gf8v7gi
+
+Yep I just cleared away some of the damage and I went from upset my card is torched to happy my house didn’t burn down. Giant crater almost blasted through the PCB.
+
+God this card has been a nightmare for most of its life. Struggled with thermal throttling and black screens for almost a year, then dismantled it to repaste it after literally weeks of troubleshooting to find out the heatsink shouldn’t have passed quality control and the vapor chamber had a giant bubble in it. Only like 30% of the fins were making actual contact with the vapor chamber at all, explaining the sudden overheating.
+
+Somebody on Reddit helped me out by sending me their old heatsink and I was able to get the card running like normal for the most part but now it’s all over.
+
+Sapphire can I please jump ahead in line for a 6800XT for my troubles?
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf8zbwt
+Comment ID: gf96uxk
+
+It looks like all your caps are solid state ceramics, so there wouldn't be any flux to leak.
+
+Edit: Actually, you might have some Tantalum caps, but those don't have electrolytic fluid.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf8smrm
+Comment ID: gf9h7io
+
+You can't undervolt the hbm2 on Vega. The "memory voltage" in wattman is....well it's not memory voltage. It's the minimum voltage floor for the cpu, I think from the p4 or p5 state upwards. Check with hwinfo64 you can see the hbm2 voltage is always 1.35v. It's a fixed voltage in bios.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf8smrm
+Comment ID: gf8t8ho
+
+Haha. Capacitor go BOOM!!
+
+On a more serious note, Sorry for your loss :(
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf8smrm
+Comment ID: gf8ta4v
+
+I can’t imagine board repair costing less than the cost of a used Vega 64, but it might not hurt to ask around.  I wonder if Louis Rossman does GPU’s as well or knows how might take them on.....
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf8smrm
+Comment ID: gf9wxc9
+
+less volts + more clocks = more amps = more likely to break stuff
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf98ork
+Comment ID: gf9i7n8
+
+60c+ on a 1080 with an aio? My 1070 hybrid with its 120mm aio hit 41c with a 2150mhz clock and 216w power limit with the fan barely going beyond its idle speed, I'm wondering where you're living and/or what case you have to get those sort of temps
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gfa79rz
+Comment ID: gfafnyc
+
+Implying they're not worth more considering you cant get a 3k/6k series.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gfaag35
+Comment ID: gfc4jce
+
+Good thinking. If I were OP I'd definitely swap out that PSU as a precautionary measure no matter what. If it did this to his GPU it could be downright dangerous.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf9c7u6
+Comment ID: gf9wy6y
+
+Right!? Can anyone who knows hwinfo64 or Vega chime in?
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf9xndq
+Comment ID: gfa1kzu
+
+I've seen an abnormal amount of Vega's posted lately about burning out. I'm suspecting it was caused by the drivers more and more every day.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gfaccnd
+Comment ID: gfaeafp
+
+True. 1070ti's can be had for cheap though if you don't mind downgrading slightly.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf98eea
+Comment ID: gf9moy5
+
+It is. The MSI Airboost has a different cooler from reference.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf99kqr
+Comment ID: gf9ntbi
+
+The card would also be in 5 different pieces with a couple of harvested VRMs bolted onto it when he's done, might be a minor inconvenience!
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf99kqr
+Comment ID: gf9iy7n
+
+yeah but that fix is probably E-power the thing because if PCB is blown or shorted you gotta either scrap parts off of it and have other gpu laying around with dead core or somehow fix that PCB but make card slower to make it stable
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf92k4t
+Comment ID: gf94cy3
+
+I would be sad too. I'm debating on selling my Liquid RX 64 since I snagged a new GPU , but I like it the look so much, I might display it in a case on the wall.
+
+Or maybe try to rig the cooler on to my new card. Idk
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf92k4t
+Comment ID: gf9vzzw
+
+Hey if you still have it I may be interested. I have reference blower 56 that I hate.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gfafwpm
+Comment ID: gfav8mq
+
+We fixed worse looking boards when I worked for Rockwell Collins. But yes, it was an engineering feat and we knew full layout of the board.
+
+Drill holes to sever shorted traces and run blue wire fixes to replace them. Probably not a good idea for high frequency boards though.
+
+Edit: Adding that these were expensive prototype boards for testing. They were not in production and lead time on a replacement was weeks. If a good tech could fix one in a day that was a win and some testing could continue.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gfajak4
+Comment ID: gfal0vz
+
+There's actually a difference, carbonized is a lower temperature longer burn.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf99zao
+Comment ID: gf9cbtw
+
+This man solders.
+
+As an EE, even if you can find the replacement parts, the PCB is dead.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf99zao
+Comment ID: gf9j0id
+
+Especially considering that modern PCBs have multilayered traces. I'd say the PCB is dead, judging by the picture.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf99zao
+Comment ID: gf9zw9d
+
+In B4 soldering wires to replace traces in desperation
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf99zao
+Comment ID: gfabwov
+
+Nothing a pencil couldn't fix
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf9gxz6
+Comment ID: gf9l8y3
+
+And you know why...
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf9la5o
+Comment ID: gf9muac
+
+Everything is out of stock once again. I helped a friend built his new pc. And told him to use his older gtx 660 till something decent was available. And then stumbled on top of it. And was like dude. Order it now. And that same night they were out of stock. And still are.
+
+And to be fair. I think they only deliver tp the Netherlands and Belgium.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf9la5o
+Comment ID: gf9n8qb
+
+Not currently in stock
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf9qq6q
+Comment ID: gf9t4go
+
+Online shop. I think his costs about 614 euro's for a reference PCB. So no custom board. Haven't seen much lower than that price anyways.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gfa08b9
+Comment ID: gfakrok
+
+Was at Azerty.nl but they are out of stock. It was a PNY one on reference PCB
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf97bec
+Comment ID: gf97fpk
+
+I run 1080p ultra, (pretty much everything maxed with motion blur off) and get 60fps most of the time, though sometimes whilst driving it dips to like 45.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf97bec
+Comment ID: gf98zdf
+
+On 1440p Ultra with a 2080 Super my frames have been freaking all over the place. Sometimes it’s more steady with RT on High and then somehow worse at RT Medium.
+
+I suspect we’ll be seeing a sizable update to CP2077 and it not being a driver issue. I’ve come across a significant batch of bugs. I had hoped these ones from pre-release would’ve been patched in the update today, but noooope.
+
+At one point I was getting a steady 15fps after ratcheting down settings. It went up quite a bit after INCREASING settings, but then got even choppier in other scenarios.
+
+
+The game as a whole though with bugs aside? Freaking phenomenal.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf97bec
+Comment ID: gf9frsl
+
+Also on 5700xt at 1440p I'm getting 60-70fps on Medium settings :/ was hoping to get better performance for this game tbh
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf97bec
+Comment ID: gfb4xkr
+
+I’m running 1440p high and getting about 55 FPS normally. Running with a Ryzen 3600. It dips and rises here and there.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf9i5sf
+Comment ID: gf9j8a1
+
+I wish I could do this, but I help beta test drivers, so my GPU needs to remain as close to stock as possible to maintain stability.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf9d01q
+Comment ID: gf9d2ah
+
+It's the same for me, but my hotspot is higher than normal.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gfabd3v
+Comment ID: gfaikk2
+
+It doesn't thermal throttle, but I imagine it's on the cusp of it, still hits the mhz it does in every other game.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gfanalx
+Comment ID: gfans34
+
+Hotspot or edge temp? My hotspot during play is like 103, which is a good 10c hotter than almost every other game...
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf8xt5q
+Comment ID: gfanqwx
+
+Exactly my thought. Id be worried this is not a gpu issue, but a psu one.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf9z023
+Comment ID: gfarhj0
+
+LOL I think you meant seppuku
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf969bi
+Comment ID: gf97o0c
+
+Trace can be fixed with needlework, inlaying thin wires along the path as necessary.
+
+This type of component level of repair isn't done except for Mac laptops in half a dozen repair shops in NY, LA.
+
+This card can likely be salvaged in China assuming the core is still good, not fried.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf8v7gi
+Comment ID: gf95b2b
+
+Yikes.  This sounds like a horrible experience.  I empathize with your troubles.  :(
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf8v7gi
+Comment ID: gf9yy1q
+
+Some of the same symptoms as my ASUS Vega 64. It’s still kicking today, but not used for gaming what so ever.
+Plan to continue using it for video/photo editing and rendering.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf8ta4v
+Comment ID: gf8va7f
+
+Cleaned it up a bit more and it nearly blew through the PCB.
+
+She dead.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf9i7n8
+Comment ID: gf9n6g5
+
+I'm not sure. Perhaps the fan speed is different? 
+
+In running it with one 140mm fan at 600-1000 RPM (idle Vs load)
+
+GPU is always full load because I have the FPS limit set at 138 FPS and 1440p. So only in some games I can hit that. 
+
+Ambient indoor temp would be 14C to 28C 
+
+My radiator size is the one in Corsair H90.
+
+Personally as long as the temp is 5C or 10C away from thermal throttle and the fan is as silent as any other case fan. I'm ok.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf9moy5
+Comment ID: gf9najv
+
+I know, I briefly tested one before putting a waterblock on it for my brother.
+
+If anything it was *quieter* than a reference Vega 56 :) (Vega Limited and Non-Limited Reference have exactly the same fan assembly)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf9iy7n
+Comment ID: gfbbawi
+
+I have a fully functiona E-powered GTX 480. The GTX Titan just has really fiddly power demands.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gfav8mq
+Comment ID: gfb4wmx
+
+Nothing in that area should be high speed that is not directly attached to the legs of the IC i would think. Unless some other power stage control signals or get gate traces run under there. The very highly sensitive pcie signals are all at the bottom of near the die.
+
+That said this is not worth the effort unless you can do it yourself and kind of want to.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf9cbtw
+Comment ID: gf9sphf
+
+As a EE Tech who repairs stuff like this.
+
+It's dead. Like others stated, you may be able to replace components, but the traces are fried.
+
+Also looks like where the chip was is now a crater, so it would be an insane thing to try and fix.
+
+New board time.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf9cbtw
+Comment ID: gf9uviw
+
+Easy. Make a new PCB, desolder everything on this board, and solder it onto the new one! /s
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf9cbtw
+Comment ID: gf9yx7v
+
+I have repaired damage like this. It took about 40 hrs over 3 days, detailed layout, and very nice soldering tools. Only reason I did it was because we would have been holding up a multimillion dollar project by ~3weeks to get a replacement batch of boards.  
+  
+TLDR: Its dead Jim
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf9j0id
+Comment ID: gf9kbxy
+
+Yep pretty much. PCB is burned there is possibility to trace it when It's not burned inside but I think The burning is caused by possible shortage somewhere else on the board.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf9zw9d
+Comment ID: gfa4ub8
+
+ah, the good old days
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf9l8y3
+Comment ID: gf9mab7
+
+♪ Because they got high ♪
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf9muac
+Comment ID: gfa25m3
+
+just for future use what store is it?
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf9t4go
+Comment ID: gfa4vms
+
+what about the ryzen? 5800x?
+
+I'm living in Dortmund so just 100km from netherlands and i want one :(
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf97fpk
+Comment ID: gf97i4k
+
+Which CPU?
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf97fpk
+Comment ID: gf9bvet
+
+Jeez. I’n planning on buying a 5600 XT with a 3300x. Was going to try for 1440p.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf97fpk
+Comment ID: gf9i5ez
+
+I have a vega64 Strix, run medium but with contact shadows and improved facial lighting. Dynamic fidelityCAS for 60fps min 80% - hits mainly 60,59, dips to mid 50s, really bad high 40s. Very playable. Changing the min % helped a lot.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf97fpk
+Comment ID: gf9m13f
+
+This is depressing news. I thought I'd be able to get 60fps on 1440p with my 5700XT but guess not?
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf97fpk
+Comment ID: gf9ux26
+
+Ouch. 1060/rx 590/1660 recommended for 1080p high and a bloody 5700XT can't even get 60fps consistently.
+
+How much difference is there between ultra and the next setting?
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf97fpk
+Comment ID: gf9xy36
+
+have you been getting crashes?
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf97fpk
+Comment ID: gfa50ed
+
+Excessive. Turn down some shit, especially some of the shadow settings to med. One of them, can't remember the name, is a huge resource hog. You'll get double the frames and much better lows.
+
+And the game still looks unreal.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf97fpk
+Comment ID: gfa783i
+
+There's something going on with your GPU. 
+
+I have the 5500XT and the recommended settings were all high and ultra at 1080p. I'll need to check the frames but it's running very smoothly. 
+
+And temps are pretty good. Always below 80C.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf98zdf
+Comment ID: gf9aw41
+
+Lower your shadow mesh options and rejoice.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf98zdf
+Comment ID: gf9a5dl
+
+Could it be DLSS automatically turning on? LTT's video on CP2077 shows that it is automatically on when RT is on
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf9frsl
+Comment ID: gf9kd4h
+
+Same here, and my 3600 tops out at about 60% utilization (averages about 40-45)I'm surprised at how well its doing honestly
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gfaikk2
+Comment ID: gfajjwp
+
+weird, if the MHz and load is the same the temps should be the same too.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf97o0c
+Comment ID: gf9biaj
+
+Hes talking about traces inside the actual pcb. Not the surface ones you can see with your eye. No one really does that kind of repair, and certainly not for older low quantity graphics cards.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf8va7f
+Comment ID: gf9ab50
+
+F
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf8va7f
+Comment ID: gf9eqf0
+
+Hey
+
+PM me if you need any details on the board, if you're gonna repair it ;)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gfb4wmx
+Comment ID: gfb8kgt
+
+Definitely not worth it. Even with the board layout and components the odds of success are pretty slim. Who knows what else fried or is near fried as a result.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf9sphf
+Comment ID: gf9su7a
+
+This is not to mention, there could be other damage to that card that isn't visible.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf9uviw
+Comment ID: gfa1q0a
+
+With components that small it'd be like playing the Devil's tiddlywinks.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf9kbxy
+Comment ID: gf9r6az
+
+Even if it didn't cause shorts, it changed the dielectric and field speed that controls speed of signal in a board. If the signals are time sensitive at all, you are also toast for that reason.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gfa4ub8
+Comment ID: gfajnun
+
+When I was in high school someone asked if I could repair their handheld LED football game.  Turned out they had spilled soda on it and the copper layer was almost 100% dissolved.  I ran air wires - for the whole circuit board!  Because... I felt like doing it, I guess?  This was back when circuit boards were single layer and traces were the width of a sharpie line.  Anyway when I got done, it worked again.  I don't think the other kid had any idea the "engineering feat" I had done to repair it.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf9mab7
+Comment ID: gf9pm55
+
+La da da da da da
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf9mab7
+Comment ID: gf9v8h0
+
+is that you afroman?
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gfa25m3
+Comment ID: gfa8cns
+
+GPU was on https://azerty.nl
+5950x and maybe 5800x was available on https://www.alternate.nl
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gfa4vms
+Comment ID: gfakllk
+
+5800x is in stock for 509,00 at Alternate. They used to ship with PostNL I believe. But I recently bought something there and my package was sent by a company called Trunkrs. And as far as I know they don't have any pick up points.
+https://m.alternate.nl/AMD/Ryzen-7-5800X-3-8-GHz-(4-7-GHz-Turbo-Boost)-socket-AM4-processor/html/product/1685585
+Currently on my phone. Removing m. Should sent you to the desktop site
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf97i4k
+Comment ID: gf97kfe
+
+2600X OC'd to 4.2 all core
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf9bvet
+Comment ID: gf9c10a
+
+I get over 90fps generaly at 1440p with a 5700xt in most games.
+
+Cyber punk is like AAAA... So yeah.
+
+Edit: FPA --> fps
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf9bvet
+Comment ID: gf9ctcg
+
+I have a 5600 xt and I recommend waiting. It’s not the best experience
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf9bvet
+Comment ID: gfat39z
+
+Yeah, that’s definitely not going to happen. I run 1080p Ultrawide (less pixels than 1440p) and yet my 5700 XT doesn’t manage a constant 60 fps. So it will be not even close with a 5600 XT.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf9m13f
+Comment ID: gf9mc5c
+
+Probably could if you dropped a few things to high, which still look amazing.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf9ux26
+Comment ID: gf9vlvu
+
+I haven't properly tested the performance at anything below these settings mind you, but from what I've seen of Linus' video the difference between between the "High" and "Ultra" preset isn't much and gives a decent performance boost.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf9xy36
+Comment ID: gf9y7vh
+
+Not really. The only 2 bugs I've encountered are equipment going invisible when swapping it quickly and this 1 time I got stuck in the hacking vision, which was fixed by making a save and loading it.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gfa783i
+Comment ID: gfa80oc
+
+Only real difference is I run beta test drivers. Whilst my 5700XT also stays below 80 at edge temp, the hotspot temp gets fairly toasty. Also you might have put on the dynamic resolution or something.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gfajjwp
+Comment ID: gfalcds
+
+It really depends on the workload. A heavier workload will require more power pushed to get that frequency, thus more heat.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf9biaj
+Comment ID: gf9d64e
+
+Hasn't it been out of production for quite some time aswell?
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf9biaj
+Comment ID: gfac4pv
+
+I mean it's a Vega 64, it has some insane use but I don't remember what. Probably rendering if I remember right
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf9biaj
+Comment ID: gf9gmis
+
+Well, he could always desolder the GPU, try to hunt down the reference design schematics and have the board made by some chinese factory, and solder his GPU onto there °L°  
+
+
+Sure, he might have to programm some ROM chips, but  ¯\\\_(ツ)\_/¯
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf9su7a
+Comment ID: gfa3j0y
+
+And the thing that fried is probably not the cause but a symptom.
+
+So even if you end up replacing it, the new part might blow up again anyways.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf9su7a
+Comment ID: gf9t039
+
+Agreed
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gfa1q0a
+Comment ID: gfaarmn
+
+0805 easy; 0603 doable; 0402 uuuurgh; 0201 fk that
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gfajnun
+Comment ID: gfanm89
+
+This is impressive in the most hilarious way! Love it
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gfajnun
+Comment ID: gfb56ne
+
+Damn i knew coke cleaned rust but melting copper is a new one heh.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf97kfe
+Comment ID: gf9e9gx
+
+What credit card number, expiry date and CVV?
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf97kfe
+Comment ID: gf9a9mh
+
+What voltage and temps?
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf97kfe
+Comment ID: gf9lma8
+
+Notice any CPU bottleneck at all or nah? Waiting for my 3070 to come to go with my 2600X for cyberpunk
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf97kfe
+Comment ID: gf9sdpp
+
+Well now I don’t believe my numbers. I have a 5600xt, and a 2600 (no X), and the Radeon software was reporting and average of 108 FPS with the same graphic settings your mentioned
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf9c10a
+Comment ID: gf9heaj
+
+frames per annum?
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf9c10a
+Comment ID: gf9ckvu
+
+Yet doesn't quite look it imo. Looks just as good as any other current gen game. Not really sure what has it running so poorly tbh I think this is pretty lackluster performance compared to its development cycle.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf9c10a
+Comment ID: gf9fah7
+
+I noticed you have a B450 motherboard. Can it handle next gen AMD stuff? Going between the TUF GAMING A520m-PLUS and the MSI B450m Mortar Max. Mortar Max goes for more.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf9c10a
+Comment ID: gf9m9up
+
+>	Cyber punk is like AAAA...
+
+You're going the wrong direction with your A's. 
+
+It's poorly optimised and buggy enough to make Bethesda envious. 
+
+Quadruple A? More like single A. And I say that because of the state of the game knowing that yes, CDPR is a "AAA" developer.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf9ctcg
+Comment ID: gf9f1gb
+
+Really? Like how bad? Because I found a card that’s worth 291 USD in my country. 1660 ti is a bit over that and I’ve heard the 5600 XT performs much better.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf9ctcg
+Comment ID: gf9f3nk
+
+I7-7700k with Asus RTX 2070 evo
+
+Game runs smooth on all Ray tracing high it isn’t so cpu intensive as I thought it would be, I haven’t had a look at exact fps yet, I’m running it on 1080p 144hz monitor and it’s atleast in the 100’s haven’t had drops either
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf9ctcg
+Comment ID: gfabrjl
+
+That doesn't give me much hope for my vega 56 :(
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf9y7vh
+Comment ID: gf9ym6r
+
+oh ok. I have been getting continuos. rashes even at low and same used to happen in cold war. It just freezes goes black and my monitor starts looking for an output after that i see the message saying that the game crashed from cd project red or activision and a message from amd and now with cyberpunk it also bugs my discord and i cant fully connect to voice. idk if i should rma or what
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gfa80oc
+Comment ID: gfa8jvo
+
+>Also you might have put on the dynamic resolution or something.
+
+I don't think I did but I'll check anyway.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gfalcds
+Comment ID: gfalzv2
+
+assuming the GPU is the bottleneck in the system, wouldn't it always try to hit maximum load?
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf9gmis
+Comment ID: gf9kodq
+
+Yes, and pay 100x what a new card costs
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf9gmis
+Comment ID: gfaq3h8
+
+The real problem is I don't think those schematics exist. I know you can get the surface trace schematics for a lot of electronics but anything inside the pcb is probably very heavily guarded by the manufacturer
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf9e9gx
+Comment ID: gf9j2hb
+
+312456 2/9 543
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf9e9gx
+Comment ID: gfa5eh0
+
+4 8 15 16 23 42
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf9e9gx
+Comment ID: gfadpex
+
+We're also going to need the last 4 of his SSN, his year of birth, the first 3 of his SSN, the day and month he was bort, and the middle 2 of his SSN
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf9a9mh
+Comment ID: gf9aws0
+
+What bloodtype?
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf9a9mh
+Comment ID: gf9auxs
+
+I got a big fuck-off cooler on it so it never goes above 60c. Voltage is 1.32 basically.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf9sdpp
+Comment ID: gf9t2fn
+
+Do you maybe have the dynamic resolution thing enabled?
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf9heaj
+Comment ID: gf9imq6
+
+Whoops... Haha fixed.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf9ckvu
+Comment ID: gf9cpl7
+
+Besides streamers struggling to stream it... I've not seen it yet and don't own it :) 
+
+I'm very interested but I'm waiting for a better experience as I usually always do with these sorts of games.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf9ckvu
+Comment ID: gf9xvww
+
+When you enable RT, it's one of the best looking games ever.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf9ckvu
+Comment ID: gf9jeq3
+
+You have to consider how much stuff is going on, on screen. The game is on another level compared to everything else thats out.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf9fah7
+Comment ID: gf9iltz
+
+No pcie4. However gen 4 parts work in the mobo.
+But it is recieving the agesa update for 5000 series cpu.
+
+If you're building now get a b550.
+
+Personally I'll wait for ddr5.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf9fah7
+Comment ID: gf9mxt7
+
+It can totally handle next gen hardware if pcie 4.0 isn't important to you. If you want all the features go with B550. 
+
+I should also mention that B450 need a bios update to support ryzen 5000 series which many motherboard vendors haven't released yet.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf9f1gb
+Comment ID: gf9hdxf
+
+I'm set to high running 5120x1440 on an asus rog 5700xt and a 3950x running at 4Ghz and it nets me around 50 FPS tops. That's with static resolution scaling at 75. It definitely takes some effort, but it's certainly playable. 
+
+My temps are fine. Right around 60-65C for GPU and mid to upper 30's for CPU, but I have a 360mm rad that is set to push air over the GPU for bonus cooling.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf9f1gb
+Comment ID: gfbg1bt
+
+My problem is it poops out plenary of FPS but the frametimes are really inconsistent
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf9ym6r
+Comment ID: gf9yvtz
+
+Damn, that really sucks, I'm not sure what to tell you. I actually run beta drivers and I don't have this issue, however I do have one that sounds similar in War Thunder, it happens most often with Discord running in the back where my display drivers just flat out crash.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gfalzv2
+Comment ID: gfamg8h
+
+It would try to hit maximum clock cycles as that gives it the most performance. Think of it like a cars engine, if you have 2 cars that are identical in every way, but 1 car weighs 1 ton more, it's going to be using a lot fuel even at the same RPMs and speed as the lighter car because it has a bigger load.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf9kodq
+Comment ID: gf9osdq
+
+I've never said it was sensible, just looking at it from an exercise in engineering POV
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gfaq3h8
+Comment ID: gfas8ck
+
+I mean AMD has them, their AIBs too. Maybe I'm a bit naive, but those schematics shouldn't be too heavily guarded, especially since they don't differ too much from graphics card to graphics card.
+
+AFAIK all the secret sauce is inside the GPU, the PCB they are mounted to are relatively unspectacular
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf9j2hb
+Comment ID: gf9qidi
+
+Wait you're missing some numbers, and you're not OP.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf9aws0
+Comment ID: gf9b1ro
+
+B+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf9aws0
+Comment ID: gf9jerm
+
+What is your bank account password and username?
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf9auxs
+Comment ID: gf9c2yt
+
+Hey serious question, because I don’t know anything, and you seem like a big computer nerd (compliment)
+
+What’s with all the overclocking this, and voltage that, hydro nuclear cooling, and rtxbeta7.999xDildoFartAYYYYMDB. 
+
+Are games really that beefy now a days?
+
+Cant you just buy a computer and run these games in high quality/high frame rate?  I just remember as a kid, late 90’s early 2000’s. We could just... game. Half life and counter strike n shit. Insert disk, play game. 
+
+It just seems like no one has a computer that can just... run a game. Which doesn’t make sense to me because a $500 console can.  It all just seems like so much jerking off. 
+
+If I wanted, I could just go to Best Buy and drop a grand or two and play these games right?
+
+Edit: Spanks for all the quick replies geek gang. ❤️
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf9auxs
+Comment ID: gf9elar
+
+That indeed does sound nice. It doesn't go above 60 during gaming or stress testing?
+
+Edit: Also 1.32v is quite good for that chip. I think you've won the silicon lottery
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf9t2fn
+Comment ID: gf9t5ea
+
+I’m not sure what that is, but I’ll check later on today and report back.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf9cpl7
+Comment ID: gf9cxp1
+
+Thats a good call. Thats going to be my experience as well. Most likely gonna wait for patches to roll out and full dlc / GOTY before I try to seriously play it.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf9cpl7
+Comment ID: gf9qr3m
+
+Gonna wait until they patch out the boobs and wiener hanging out bugs?
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf9jeq3
+Comment ID: gf9z56r
+
+Like I said, it doesn't really look it. I'm not sure if you've played it yet, but its not mindblowing or on another level. It's literally at the same fidelity as other games. I have played better looking titles that run better.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf9hdxf
+Comment ID: gf9hs51
+
+Goodness. Not too sure if I’m getting a 1080p or 2560x1440p 27 inch monitor. I’ve heard a 1080p 27 inch monitor looks like shit. 
+
+I’ve been seeing a lot of comments about AMD’s drivers kicking them in the head and I’m kinda worried about that happening. 
+
+It seems like it’s pointing me to Nvidia GPUs more; 2060 goes for a little bit more than the 5600 XT, but you do get RTX and reliable drivers. I just wanna run Cyberpunk man.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf9yvtz
+Comment ID: gfac8d6
+
+where do you get those beta drivers from?
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gfamg8h
+Comment ID: gfan506
+
+thanks, that makes sense i think.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf9qidi
+Comment ID: gf9rikj
+
+shhhh
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf9qidi
+Comment ID: gfa5m1a
+
+yes they are, they both have brown hair
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf9b1ro
+Comment ID: gf9he5r
+
+That's my motto and my blood type.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf9b1ro
+Comment ID: gf9b699
+
+B•)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf9c2yt
+Comment ID: gf9cltk
+
+Overclocking is still enthusiast territory, but it's pretty easy and forgiving to do a basic overclock. Will only net you about 3 - 10 % FPS in most cases, depending on the overclock. 
+
+Running 1080p / 1440p ultra isn't even close to what consoles will be running performance wise, and they have very optimised architecture and graphics settings. 
+
+You're on Reddit though, it's heavily skewed towards enthusiasts who have spent a lot of time overclocking and fiddling to get maximum performance. 
+
+In short, of course you can buy a pc and run games. But that's not squeezing every possible percentage of performance out of your hardware unless you overclock.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf9c2yt
+Comment ID: gf9d7aa
+
+I wanna echo what some of the others have said and add a bit.
+
+You can totally just go out there and buy a gaming computer to run games just fine. People build their own PCs and overclock them and such either as a hobby or to save money (or both).
+
+Think of it as car guys who buy a Miata and drop a V8 into it, bolt on a turbo, add racing tires, etc. Sure, maybe they could go out and buy a Ferrari and race it at the local track, but some can't afford that and working on a car is a hobby for some. Same with doing all this on a PC.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf9c2yt
+Comment ID: gf9cbg4
+
+You totally can still do that, it's just that some people like to squeeze every last bit of performance out of their PC.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf9c2yt
+Comment ID: gf9cpcv
+
+> Which doesn’t make sense to me because a $500 console can
+
+Consoles are actually sold at a loss, as they typically make back all the money, and then some, from games (software) and subscriptions (also software).
+
+As software has a marginal cost of essentially 0 (excluding updates), in the long run they can reap some insane profit.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf9c2yt
+Comment ID: gf9ebp4
+
+Think of it like a car. You might own a standard family saloon, nothing special, but if you could play with some settings on the dashboard that made it accelerate faster, and use less fuel, so that it was a little more like the model up, that you couldn’t afford, you’d probably do it, wouldn’t you?
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf9c2yt
+Comment ID: gf9eqfb
+
+You can definitely still just buy a pc, a game and play, but for us tech nerds it’s fun to fiddle with it and optimise (even with a crash here and there, not as much as like 10 years ago).
+
+The difference is we know how they are build (not that hard really lots of tutorials out there nowadays) and it saves money buying separate parts and installing them yourself, instead of buying a build one from some brand or website that charges you for it.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf9c2yt
+Comment ID: gf9g9bv
+
+Who else, besides enthusiasts would post something on any PC related subreddits? Not anyone I know, unless they need help. You see lots of posts from enthusiasts and accept overclocking and custom watercooling as common thing. Enthusiasts are a minority. Majority buys pre-built, healthy percentage builds themselves or with friends. They plug and play, but you don't get to see them post their setup on reddit.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf9c2yt
+Comment ID: gf9cmkk
+
+>Cant you just buy a computer and run these games in high quality/high frame rate?
+
+obv you'd be able to, but you can't paint a picture in someone's head without describing it
+
+if he'd run it at high temperatures it'd thermal throttle which could go some way to explaining why the performance isn't that great
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf9c2yt
+Comment ID: gf9wki8
+
+I paid for the whole speedometer, so I'm using the whole speedometer kind of thing.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf9c2yt
+Comment ID: gfa6r8s
+
+Here's a comparison for you. If you look at cars something very similar happens a new car gets released. Its a very good car it goes from point A to point b rather easily no issues. But what enthusiasts do is they will take that car and modify it to make it suit them more. Either to get there more efficiently or faster. They might even repaint it. But it is their's and they enjoy doing it.
+
+What I'm saying is yes you can just buy a computer and have it run games and you shouldn't have any issues. But you can also overclock to get better frame rates or lower power consumption. You can even repaint the shrouds. People will modify something because they can and want to rather than need to.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf9c2yt
+Comment ID: gfapvnb
+
+Each chip is different--some can barely run @ factory spec and some can run lots faster. Sometimes a low-end part either just barely failed testing for the next step up or the company decided they needed a product at a cheaper price point and artificially gimped it.
+
+Case in point, I'm getting the same performance out of my video card as a model that costs 33% more by moving a couple of software sliders.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf9c2yt
+Comment ID: gfaqjfz
+
+> Cant you just buy a computer and run these games in high quality/high frame rate?
+
+Yes.
+
+Or you could make the same computer a bit faster for free.
+
+Or you could make the same computer a bit slower but use less energy, generate less heat and be quieter.
+
+Or you could spend slightly less money initially and achieve the same performance.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf9elar
+Comment ID: gfa4vnh
+
+It's funny you mention this because Ryzen Master doesn't even push a single core to 4.2 with PBO, even when I basically strip the limits off it, so for ages I thought I'd actually lost the silicone lottery pretty bad.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf9qr3m
+Comment ID: gf9rng2
+
+Awww man thats a feature not a bug.. based on my username you should probably understand that this wouldn't bother me. if you have to see Weiner to see some boob, no drama.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf9hs51
+Comment ID: gf9pjbj
+
+That's highly subjective. For me even 24" 1080p feels too stretched.
+
+27" 1440p feels about right.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gf9hs51
+Comment ID: gfbuwut
+
+As someone who owns an IPS 27" 1080p monitor, no; it does not look like shit. Not remotely. Idk what propaganda you've been reading.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parent ID: gfac8d6
+Comment ID: gfahoh1
+
+I'm part of the Vanguard beta testing program, drivers are only available to those within the program, and you gotta sign an NDA basically saying you won't leak the drivers or give off any info. I'm honestly not sure exactly how much I can actually say about it. If you'd like to try join yourself you can sign up for it [here](https://www.amd.com/en/technologies/radeon-software-testers), people having repeatable issues is always appreciated as it helps iron out the bugs.
